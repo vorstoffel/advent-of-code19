@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { ModuleMasses } from '../module-masses';
+import { ModuleMasses } from './module-masses';
 
 @Component({
   selector: 'app-day1',
